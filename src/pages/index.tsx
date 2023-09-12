@@ -8,7 +8,7 @@ export default function Home(){
                 <title>fleeting</title>
                 <header className="p-6">Master mobility</header>            
             </div>
-                <BasicModal/>
+            <BasicModal/>
         </div>
     )
 }
